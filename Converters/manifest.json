@@ -72,7 +72,7 @@
         "name": "Currency Converter",
         "short_name": "Currency Converter",
         "description": "Quickly get currency prices",
-        "url": "/Converters/Currency.html",
+        "url": "/Converters/Converters/Currency.html",
         "icons": [
           {
             "src": "https://pwabuilder.com/assets/icons/icon_192.png",
