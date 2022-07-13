@@ -67,18 +67,18 @@
         "sizes": "384x384"
       }
     ],
-    "shortcuts": [
-  {
-    "name": "Generate a Password",
-    "short_name": "Generate a Password",
-    "description": "Quickly generate a Password",
-    "url": "/Pages/PasswordGenerator.html",
-    "icons": [
+        "shortcuts": [
       {
-        "src": "https://pwabuilder.com/assets/icons/icon_192.png",
-        "sizes": "192x192"
+        "name": "Generate a Password",
+        "short_name": "Generate a Password",
+        "description": "Quickly generate a Password",
+        "url": "/Pages/PasswordGenerator.html",
+        "icons": [
+          {
+            "src": "https://pwabuilder.com/assets/icons/icon_192.png",
+            "sizes": "192x192"
+          }
+        ]
       }
     ]
-  }
-]
-  }
+}
